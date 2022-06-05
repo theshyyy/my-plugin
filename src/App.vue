@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <vpay />
     <router-view/>
   </div>
 </template>
